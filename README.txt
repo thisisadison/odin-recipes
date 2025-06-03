@@ -6,4 +6,4 @@
 - Learnt how to insert links and images.
 - Learnt how to transition from one html file to another using these links.
 
-Live website available on : https://adisontan.github.io/odin-recipes
+Live website available on : https://thisisadison.github.io/odin-recipes
