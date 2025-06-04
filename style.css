@@ -1,0 +1,59 @@
+.btn{
+    display: block;
+    margin-bottom: 10px;
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 20px;
+    padding: 4px 8px;
+    background-color: bisque;
+    border-color: antiquewhite;
+}
+
+.header{
+    font-family: "Brush Script MT", "Lucida Handwriting", sans-serif;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+.recipe-header{
+    text-align: center;
+    color: white;
+    font-family: "Brush Script MT", sans-serif;
+    border: 2px solid white;
+    padding: 4px 4px;
+    margin-bottom: 20px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+div{
+    color: white;
+    padding-left: 20px;
+}
+
+.ingredients-container{
+    border: 2px solid white;
+    margin-bottom: 20px;
+}
+
+.steps-container{
+    border: 2px solid white;
+    margin-bottom: 20px;
+}
+
+.home-btn{
+    display: block;
+    margin: 0 auto;
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 20px;
+    padding: 4px 8px;
+    background-color: bisque;
+    border-color: antiquewhite;
+}
